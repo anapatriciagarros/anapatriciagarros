@@ -46,6 +46,6 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Patricia%20Garros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapatriciagarros)](https://www.linkedin.com/in/anapatriciagarros)
-[![Gmail Badge](https://img.shields.io/badge/-patriciagarros@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patriciagarros@hotmail.com)](mailto:patriciagarros@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Mail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patriciagarros@hotmail.com)](mailto:patriciagarros@hotmail.com)
 [![Instagram](https://img.shields.io/badge/-@apatriciagarros-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/apatriciagarros/)](https://www.instagram.com/apatriciagarros/)
 [![GitHub](https://img.shields.io/github/followers/anapatriciagarros?label=follow&style=social)](https://github.com/anapatriciagarros)

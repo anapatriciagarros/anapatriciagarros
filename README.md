@@ -1,15 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=Patricia&color=006bed)
 
-## Sobre mim
+## About me
 
-- 🤔 Explorando dados e criando soluções inteligentes com tecnologia.
-- 🎓 Estudando Engenharia da Computação na UFMA.
-- 💼 Supervisora na área de telecomunicações, migrando para Data Science.
-- 🌱 Aprendendo mais sobre Python, SQL, Power BI e análise de dados.
+- 🤔 Exploring data and creating intelligent solutions with technology.
+- 🎓 Studying Computer Engineering at UFMA.
+- 💼 Telecommunications Supervisor, transitioning to Data Science.
+- 🌱 Learning more about Python, SQL, Power BI, and data analysis.
 
-## Minhas Skills
+## My Skills
 
-**Aplicações e dados**
+**Applications and Data**
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
@@ -20,7 +20,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
-**Utilidades**
+**Utilities**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -31,7 +31,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**Ferramentas de desenvolvimento**
+**Development Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
@@ -43,7 +43,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anapatriciagarros&theme=dracula&show_icons=true" />
 </a>
 
-## Onde me encontrar
+## OWhere to Find Me
 
 [![Linkedin](https://img.shields.io/badge/-Patricia%20Garros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapatriciagarros)](https://www.linkedin.com/in/anapatriciagarros)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patriciagarros@hotmail.com)](mailto:patriciagarros@hotmail.com)

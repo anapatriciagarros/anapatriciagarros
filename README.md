@@ -43,7 +43,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anapatriciagarros&theme=dracula&show_icons=true" />
 </a>
 
-## OWhere to Find Me
+## Where to Find Me
 
 [![Linkedin](https://img.shields.io/badge/-Patricia%20Garros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapatriciagarros)](https://www.linkedin.com/in/anapatriciagarros)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patriciagarros@hotmail.com)](mailto:patriciagarros@hotmail.com)
